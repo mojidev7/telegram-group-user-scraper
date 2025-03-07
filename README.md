@@ -25,6 +25,8 @@ A Python utility for monitoring Telegram groups and collecting user information.
    ```bash
    git clone https://github.com/yourusername/telegram-group-monitor.git
    cd telegram-group-monitor
+   python -m venv .venv
+   source .venv/bin/activate
    ```
 
 2. Install required dependencies:
